@@ -1,0 +1,4 @@
+ID_Usuario	PrimerNombre_Usuario	Segundo_Nombre_Usuario	PrimerApellido_Usuario	SegundoApellido_Usuario	Correo_Usuario	Login_Usuario	Contrasena_Usuario	Telefono_Usuario	Tiendas_ID_Tienda
+1	Diego 	Alexander	Martinez 	Parada	damartinez353@misena.edu.co	dmartinez	12345678	3114766077	1
+2	Ernesto 		Giraldo	Baron	egiraldo70@misena.edu.co	egiraldo	12345678	3167314448	2
+3	Freddy 	Leonardo	Castaño 	Fernandez	flcastano4@misena.edu.co	fcastano	12345678	3503421338	3
